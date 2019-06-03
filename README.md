@@ -2,7 +2,7 @@
 
 It is a course project about recommender system.
 
-Build on a Recommender system using KNN and SVD algorithm. A GUI is inplemented with PyQt5 in order to do the presentation.
+Build a Recommender system using KNN and SVD algorithm. A GUI is inplemented with PyQt5 in order to do the presentation.
 
 ## How to run
 ```python
