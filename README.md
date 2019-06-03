@@ -21,14 +21,25 @@ the dataset is available on [Movielens](https://grouplens.org/datasets/movielens
 
 .
 ├── image.py
+
 ├── MainWindows.py
+
 ├── MainWindows.ui
+
 ├── ml-latest-small
+
 │   ├── links.csv
+
 │   ├── movies.csv
+
 │   ├── ratings.csv
+
 │   ├── README.txt
+
 │   └── tags.csv
+
 ├── README.md
+
 └── recommander.py
+
 
